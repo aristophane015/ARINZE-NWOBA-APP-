@@ -4,9 +4,9 @@ This is a TypeScript project that defines a `filterPersons` function. The functi
 
 Features
 
-- Filter by type**: The function can filter a list of users or admins by their type (`user` or `admin`).
-- Partial criteria**: The function allows you to filter based on partial properties of either `User` or `Admin` objects (excluding the `type` property).
-- Flexible criteria**: You can filter by any field, such as `name` or `email`, for the selected person type.
+- Filter by type: The function can filter a list of users or admins by their type (`user` or `admin`).
+- Partial criteria: The function allows you to filter based on partial properties of either `User` or `Admin` objects (excluding the `type` property).
+- Flexible criteria: You can filter by any field, such as `name` or `email`, for the selected person type.
 
  Types
 
